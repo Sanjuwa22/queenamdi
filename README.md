@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=WELCOME+I'AM+SANJUWA+OFFICIAL&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+QUEEN+AMDI+USER&font=Fira%20Code&center=true&width=380&height=50">
 
 
 </p>
