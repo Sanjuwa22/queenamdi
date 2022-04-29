@@ -9,20 +9,14 @@
 
 </p>
 
+</a>
 <p align="center">
-    Makes it easy and fun to use WhatsApp. It is also the first Sinhala user bot for WhatsApp.
+    Queen Amdi යනු භාවිතයට පහසු හා ලේසියෙන් සාදාගත හැකි Whatsapp රොබෝවෙකි. Queen Amdi යනු ලංකාවෙ පළවෙනි සිංහල whatsapp රොබෝව වේ..
     <br>
-        <a href="https://chat.whatsapp.com/FufFv6v1M288le5TopCNMQ">Whatsapp Group</a> |
-        <a href="https://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ">Youtube Channel</a>
-    <br>
+    
+  </a>
 </p>
 
-----
-<div align="center">
-	<h1>Visit our official website to install the Whatsapp Bot (With button update) :</h1>
-	<a href="https://www.amdaniwasa.com">
-<img src="https://images.squarespace-cdn.com/content/v1/580515742e69cfedd1fbef58/1525386767826-Z6T2PAXQD6PZJFNGY14U/ke17ZwdGBToddI8pDm48kGzbt7cz3CKX9Rsta-RdWeJZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwXPcCdCfJzTjuw7eD5qoJaUvNnrlJ7-JqE3xnP9OqaaXMr3zNNd3H5Lklmgn1mB80/getbutton.png" width="400"></br></a>
-</div>
 
 ----
 <div align="center">
@@ -85,17 +79,17 @@
 </p>
  
 ```
-Queen Amdi bot is an UserBot for WhatsApp That allowing you to get done so many tasks.
-The user is responsible for all possible consequences of misuse.
-This is not a Open-Source project. This is just a project that allow you to get deploy a bot.
-Additionally, it enables plug-in support for users.
-Install their own plugins to the original software and use as they please.
-Usage is entirely the responsibility of the user. The operating system is not responsible.
-HAVE A FUN!
+Queen Amdi bot යනු WhatsApp සඳහා වන UserBot එකක් වන අතර එය ඔබට බොහෝ කාර්යයන් කිරීමට ඉඩ සලසයි.
+අනිසි භාවිතයේ ඇති විය හැකි සියලුම ප්‍රතිවිපාක සඳහා පරිශීලකයා වගකිව යුතුය.
+මෙය විවෘත මූලාශ්‍ර ව්‍යාපෘතියක් නොවේ. මෙය ඔබට බොට් එකක් යෙදවීමට ඉඩ සලසන ව්‍යාපෘතියක් පමණි.
+අතිරේකව, එය පරිශීලකයන් සඳහා ප්ලග්-ඉන් සහය සක්රීය කරයි.
+මුල් මෘදුකාංගයට තමන්ගේම ප්ලගීන ස්ථාපනය කර ඔවුන් කැමති පරිදි භාවිතා කරන්න.
+භාවිතය සම්පූර්ණයෙන්ම පරිශීලකයාගේ වගකීමකි. මෙහෙයුම් පද්ධතිය වගකිව යුතු නොවේ.
+විනොද වෙන්න!
 ```
 
-## Visit our official website to install the Whatsapp Bot :
-QR Code generator and full instructions available there.
+## Whatsapp Bot ස්ථාපනය කිරීමට අපගේ නිල වෙබ් අඩවියට පිවිසෙන්න:
+QR කේත උත්පාදක යන්ත්රය සහ සම්පූර්ණ උපදෙස් එහි ඇත.
 <div>
 	<a href="https://www.amdaniwasa.com">
 <img src="https://i.ibb.co/dr27VyW/59060c190cbeef0acff9a657.png" width="200"></br></a>
