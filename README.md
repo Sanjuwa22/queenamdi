@@ -96,7 +96,7 @@ QR Code generator and full instructions available there.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sanjuwa22/queenamdi)
 
-## Queen Amdi Team
+## Queen Amdi team 
 
 <table>
 										<tbody>
