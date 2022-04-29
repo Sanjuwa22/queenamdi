@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/r3wmpwr/LOGO.jpg" width="300" height="300">
+  <img src="https://i.ibb.co/S31btXR/be8d698f124efeee5bd45ce2c713201c.jpg" width="300" height="300">
   <h1> QUEEN AMDI WHATSAPP BOT</h1>
 </div>
 
