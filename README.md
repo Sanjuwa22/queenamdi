@@ -1,3 +1,9 @@
+
+  #### TOTAL REPO VIEWS
+![Visitor Count](https://profile-counter.glitch.me/Sanjuwaofc2/count.svg)
+</p>
+
+
 <div align="center">
   <img src="https://i.ibb.co/z8vYBZ1/68747470733a2f2f692e6962622e636f2f7233776d7077722f4c4f474f2e6a7067-1.jpg" width="300" height="300">
   <h1> QUEEN AMDI WHATSAPP BOT</h1>
