@@ -101,8 +101,6 @@ QR කේත උත්පාදක යන්ත්රය සහ සම්පූ�
 <img src="https://i.ibb.co/dr27VyW/59060c190cbeef0acff9a657.png" width="200"></br></a>
 </div>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sanjuwa22/queenamdi)
-
 ## Queen Amdi team 
 
 <table>
