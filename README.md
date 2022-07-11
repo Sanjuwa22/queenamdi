@@ -98,7 +98,7 @@ Queen Amdi bot යනු WhatsApp සඳහා වන UserBot එකක් ව�
 QR කේත උත්පාදක යන්ත්රය සහ සම්පූර්ණ උපදෙස් එහි ඇත.
 <div>
 	<a href="https://www.amdaniwasa.com">
-<img src="https://i.ibb.co/dr27VyW/59060c190cbeef0acff9a657.png" width="200"></br></a>
+<img src="https://i.ibb.co/k4CQNtp/images-removebg-preview.png" width="200"></br></a>
 </div>
 
 ## Queen Amdi team 
