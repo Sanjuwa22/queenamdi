@@ -10,7 +10,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Multi+Device+Update+Coming+Soon+🇱🇰&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=MD+VERSION+COMING+SOON+🇱🇰&font=Fira%20Code&center=true&width=380&height=50">
 
 
 </p>
