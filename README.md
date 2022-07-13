@@ -30,7 +30,7 @@
 	<h2>Queen Amdi v3.6.2 whatsapp bot (new version) :</h1>
 	
 ### QR CODE
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@BlackAmda/Queen-Amdi-QR-Code)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@Sanjuwa22/QUEEN-AMDI-QR-CODE?v=1)
 
 ## DEPLOY
 
