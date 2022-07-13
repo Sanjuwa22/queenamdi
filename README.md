@@ -18,10 +18,11 @@
 </a>
 <p align="center">
     Queen Amdi යනු භාවිතයට පහසු හා ලේසියෙන් සාදාගත හැකි Whatsapp රොබෝවෙකි. Queen Amdi යනු ලංකාවෙ පළවෙනි සිංහල whatsapp රොබෝව වේ..
-    <br>
+            <a href="https://chat.whatsapp.com/LcuiLpbcdXVA90W4CCZ2FM">Whatsapp Support Group </a>
     
   </a>
 </p>
+
 
 
 ----
